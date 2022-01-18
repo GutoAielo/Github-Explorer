@@ -6,4 +6,4 @@ To config this React-app I used:
 - Typescript
 - Css/Sass loader
 
-Also I used te prompt command yarn
+Also I used the prompt command yarn
